@@ -1,5 +1,5 @@
 <center>
-  <img src= "/assets/img/KK-circle.jpg" height=200 width=200>
+  <img src= "/assets/img/KK-circle.png" height=200 width=200>
 </center>
   
 # <center>Computer Science Capstone</center>
