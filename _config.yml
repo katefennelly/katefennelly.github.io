@@ -3,4 +3,4 @@ logo: /assets/img/KK-circle.png
 subtitle: Computer Science Capstone
 show_downloads: true
 #remote_theme: daattali/beautiful-jekyll@6.0.1
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
