@@ -1,3 +1,4 @@
 title: Kate Kowalyshyn
 subtitle: Computer Science Capstone
-remote_theme: daattali/beautiful-jekyll@6.0.1
+#remote_theme: daattali/beautiful-jekyll@6.0.1
+theme: jekyll-theme-slate
