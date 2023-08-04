@@ -1,3 +1,7 @@
+<center>
+  <img src= "/assets/img/KK-circle.jpg" height=200 width=200>
+</center>
+  
 # <center>Computer Science Capstone</center>
 
 ## <center>CS-499 | SNHU</center>
