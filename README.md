@@ -9,19 +9,19 @@ Code reviews play a vital role in catching and resolving problems early in devel
 
 ## Software Design and Engineering:
 
-The first artifact in this Portfolio is a destination slide show in Android OS. 
+For the first artifact in my Portfolio, I took a destinations slideshow that was built in Java and ported it to Android OS. 
 
 [Link to Software Design and Engineering Project](./SoftwareDesignEngineering.html)
 
 ## Algorithms and Data Structures:
 
-The second artifact in this Portfolio is advancements in the destination slideshow. 
+For the second artifact in my Portfolio, I took the base Android application created in the first artifact and added more complexities, giving the end user the choice of category for the destinations and adding all destination information into a SQLite database that connects to the application.  
 
 [Link to Algorithms and Data Structures Project](./AlgorithmDataStructures.html)
 
 ## Databases:
 
-The third artifact in this Portfolio is a backend SQLite database that connects to the Android OS Destination Slideshow, with a front end in Python that allows for easier manipulation of data in the database. 
+The third artifact in my Portfolio is a front end interface coded in Python for the SQLite database holding all the destination information. With the front end interface, it allows for easier manipulation of data, allowing destinations to be created, read, updated, and deleted all in one place. 
 
 [Link to Databases Project](./Databases.html)
 
