@@ -1,1 +1,1 @@
-# Software Design & Engineering
+# Software Design and Engineering
