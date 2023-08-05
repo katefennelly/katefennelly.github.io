@@ -1,1 +1,7 @@
+---
+layout: default
+---
+
 # Databases
+
+[back](./)
