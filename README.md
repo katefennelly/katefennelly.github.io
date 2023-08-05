@@ -17,7 +17,7 @@ The first artifact in this Portfolio is a destination slide show in Android OS.
 
 The second artifact in this Portfolio is advancements in the destination slideshow. 
 
-[Link to Algorithms and Data Structures Project](./AlgorithmDataStructure.html).
+[Link to Algorithms and Data Structures Project](./AlgorithmDataStructures.html).
 
 ## Databases:
 
