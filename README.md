@@ -10,7 +10,9 @@
 5.  [Databases](./Databases.html)
 
 
-## Professional Self-Assessment:
+<center>
+  <img src="/assets/img/self_assess.png">
+</center>
 
 
 ## Refinement Plan and Code Review:
