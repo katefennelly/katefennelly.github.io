@@ -2,13 +2,23 @@
 
 ## <center>CS-499 | SNHU</center>
 
+## Table of Contents:
+1.  Professional Self-Assessment
+2.  [Refinement Plan and Code Review](./RefineReview.html)
+3.  [Software Design and Engineering](./SoftwareDesignEngineering.html)
+4.  [Algorithms and Data Structures](./AlgorithmDataStructures.html)
+5.  [Databases](./Databases.html)
+
+
 ## Professional Self-Assessment:
 
 
-## Code Review:
+## Refinement Plan and Code Review:
 
 A code review is a collaborative process in software development where developers review each other 's code to identify errors, assess its quality, and provide feedback.
-Code reviews play a vital role in catching and resolving problems early in development, leading to higher-quality software. You can watch my code review <a href="https://youtu.be/mM0wrSi6K7k">here</a>.
+Code reviews play a vital role in catching and resolving problems early in development, leading to higher-quality software. 
+
+[Link to Refinement Plan and and Code Review](./RefineReview.html)
 
 ## Software Design and Engineering:
 
