@@ -2,6 +2,9 @@
 
 ## <center>CS-499 | SNHU</center>
 
+## Professional Self-Assessment:
+
+
 ## Code Review:
 
 A code review is a collaborative process in software development where developers review each other 's code to identify errors, assess its quality, and provide feedback.
@@ -25,4 +28,3 @@ The third artifact in my Portfolio is a front end interface coded in Python for 
 
 [Link to Databases Project](./Databases.html)
 
-## Professional Self-Assessment:
