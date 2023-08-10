@@ -11,7 +11,7 @@
 
 
 <center>
-  <img src="/assets/img/self_assess.png">
+  <img src="/assets/img/selfassess.png">
 </center>
 
 
