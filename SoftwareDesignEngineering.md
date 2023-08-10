@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Software Design and Engineering
+<center>
+  <img src="/assets/img/design.png">
+</center>
 
 
 [back](./)
