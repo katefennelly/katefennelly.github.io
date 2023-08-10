@@ -3,7 +3,7 @@
 ## <center>CS-499 | SNHU</center>
 
 ## Table of Contents:
-1.  Professional Self-Assessment
+1.  [Professional Self-Assessment](#self-assessment)
 2.  [Refinement Plan and Code Review](./RefineReview.html)
 3.  [Software Design and Engineering](./SoftwareDesignEngineering.html)
 4.  [Algorithms and Data Structures](./AlgorithmDataStructures.html)
@@ -11,7 +11,7 @@
 
 
 <center>
-  <img src="/assets/img/selfassess.png">
+  <img id="self-assessment" src="/assets/img/selfassess.png" title="Professional Self-Assessment">
 </center>
 
 
