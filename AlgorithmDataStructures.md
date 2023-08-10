@@ -2,6 +2,8 @@
 layout: default
 ---
 
-# Algorithms and Data Structures
+<center>
+  <img src="/assets/img/algorithms.png">
+</center>
 
 [back](./)
