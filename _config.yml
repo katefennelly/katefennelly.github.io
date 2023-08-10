@@ -2,6 +2,6 @@ title: Kate Kowalyshyn
 logo: /assets/img/KK-circle.png
 subtitle: Computer Science Capstone
 show_downloads: true
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "jeffreytse/jekyll-theme-yat"
 google_analytics: G-41KQ3FH1W3
 plugins: jekyll-include-cache
