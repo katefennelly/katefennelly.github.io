@@ -2,6 +2,8 @@
 layout: default
 ---
 
-# Refinement Plan and Code Review
+<center>
+  <img src="/assets/img/code.png">
+</center>
 
 [back](./)
