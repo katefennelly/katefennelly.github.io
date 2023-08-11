@@ -20,7 +20,7 @@ For the second category, Algorithms and Data Structures, I will use the same art
 * Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 
 ### Databases:
-For the third category, database, I will continue with the Project.java, Top 5 Destinations Java slide show from CS 250: Software Development Lifecycle course. I will merge the project from CS-250 with my knowledge from DAD 220: Introduction to SQL to create a database for all the information within the slide show. After completing the backend of the SQL database, I will create a frontend to make it easier to add new destinations to the database for further development of the slideshow. With this development of the database, I will also attempt to add in security aspects to ensure the course outcome:
+For the third category, database, I will continue with the Project.java, Top 5 Destinations Java slide show from CS-250: Software Development Lifecycle course. I will merge the project from CS-250 with my knowledge from DAD-220: Introduction to SQL to create a database for all the information within the slide show. After completing the backend of the SQL database, I will create a frontend to make it easier to add new destinations to the database for further development of the slideshow. With this development of the database, I will also attempt to add in security aspects to ensure the course outcome:
 * Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 
