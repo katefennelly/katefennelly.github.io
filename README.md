@@ -21,8 +21,7 @@
 
 ## Refinement Plan and Code Review:
 
-The refinement plan outlines actionable steps to address issues identified during a code review, enhancing the software's quality and maintainability. 
-A code review is a collaborative process in software development where developers review each other 's code to identify errors, assess its quality, and provide feedback.
+The refinement plan outlines actionable steps to address issues identified during a code review, enhancing the software's quality and maintainability. A code review is a collaborative process in software development where developers review each other's code to identify errors, assess its quality, and provide feedback.
 
 [Link to Refinement Plan and and Code Review](./RefineReview.html)
 
