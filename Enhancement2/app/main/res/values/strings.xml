@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DestinationSlideshow</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name='lorem_ipsum'>1</string>
+
+
+    <string name="top_5_destinations_slideshow">Top 5 Destinations Slideshow</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="Destination1Title">#1 The Grand Canyon</string>
+    <string name="Destination2Title">#2 Jamestown, RI</string>
+    <string name="Destination3Title">#3 Myrtle Beach, SC</string>
+    <string name="Destination4Title">#4 Honolulu, HI</string>
+    <string name="Destination5Title">#5 Las Vegas, NV</string>
+    <string name="Dest1Description">Spectacular canyon views and hiking where you can detox from technology and focus on wellness.</string>
+    <string name="Dest2Description">Calming seaside trip that will help soak up the sun and catch up on some you time!</string>
+    <string name="Dest3Description">Enjoy a relaxing vacation focusing on your wellness while soaking up the sun in South Carolina!</string>
+    <string name="Dest4Description">Beautiful beaches, sunny paradise! Take a step back from life and enjoy this trip to focus on your wellness. </string>
+    <string name="Dest5Description">Enjoy a tranquil vacation at Las Vegas with some of the best spas in the country!</string>
+    <string name="description_imageview">picture</string>
+
+</resources>
