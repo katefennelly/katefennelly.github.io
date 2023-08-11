@@ -1,4 +1,6 @@
-
+<center>
+   <img src="/assets/img/ePortfolio.png">
+ </center>
 
 # <center>Computer Science Capstone</center>
 
