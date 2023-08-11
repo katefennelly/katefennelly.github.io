@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./../assets/img/ePortfolio.png");
+  background-image: url("/assets/img/ePortfolio.png");
   background-size: 100% auto;
 
   @include large {
