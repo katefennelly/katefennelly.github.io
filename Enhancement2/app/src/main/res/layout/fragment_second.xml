@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:background="@drawable/back5">
+
+        <Button
+            android:id="@+id/btnCity"
+            android:layout_width="149dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="75dp"
+            android:backgroundTint="#AB5448"
+            android:text="@string/btnCity"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnDesert" />
+
+        <Button
+            android:id="@+id/btnCountry"
+            android:layout_width="149dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginEnd="20dp"
+            android:backgroundTint="#AB5448"
+            android:text="@string/btnCountry"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnMountain" />
+
+        <Button
+            android:id="@+id/btnDesert"
+            android:layout_width="149dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="75dp"
+            android:backgroundTint="#AB5448"
+            android:text="@string/btnDesert"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnIsland" />
+
+        <Button
+            android:id="@+id/btnRandom"
+            android:layout_width="149dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="95dp"
+            android:backgroundTint="#AB5448"
+            android:text="@string/Random"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnCountry" />
+
+        <Button
+            android:id="@+id/btnIsland"
+            android:layout_width="149dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="70dp"
+            android:backgroundTint="#AB5448"
+            android:text="@string/btnIsland"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <Button
+            android:id="@+id/btnMountain"
+            android:layout_width="149dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginEnd="20dp"
+            android:backgroundTint="#AB5448"
+            android:text="@string/btnMountain"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="327dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/environmentType"
+            android:textAlignment="center"
+            android:textColor="#486EAB"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>
