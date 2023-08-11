@@ -3,14 +3,18 @@
 
 @import "{{ site.theme }}";
 
-h1, h2, h3 {
-color: #66003d;
+h1, h3 {
+color: #62BA95;
 }
-
-title {
-color: #003d66;
+h2 {
+  color: #BA9562;
 }
 
 a {
-  color: #290066;
+  color: #6287ba;
+}
+
+a:hover, a:focus {
+  color: #BA6287;
+  font-weight: bold;
 }
