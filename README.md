@@ -18,6 +18,8 @@
   <img id="self-assessment" src="/assets/img/selfassess.png" title="Professional Self-Assessment">
 </center>
 
+Throughout my time at SNHU in the Computer Science program, I have learned a vast amount of information about the computer science field as well as myself and my strengths and weaknesses. Completing my coursework and developing the ePortfolio has enabled me to showcase my technical skills, project experiences, and achievements to potential employers in the computer science field. This process demonstrates my expertise and helps align my professional goals and values with the industry’s demands, making me a more attractive candidate for job opportunities. Using an ePortfolio provides a tangible representation of my growth, versatility, and ability to apply knowledge to real-world projects enhancing and standing out in a competitive job market.
+
 
 ## Refinement Plan and Code Review:
 
