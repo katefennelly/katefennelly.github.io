@@ -10,7 +10,7 @@ layout: default
 ### Original Artifact:
 
 <center>
-  <img src="/assets/img/initial-artifact.png">
+  <img src="/assets/gif/original.gif">
 </center>
 
 ### Enhancement 1:
