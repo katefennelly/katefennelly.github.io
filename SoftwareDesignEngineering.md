@@ -16,7 +16,7 @@ layout: default
 ### Enhancement 1:
 
 <center>
-  <img src="/assets/gif/enhancement1.gif")
+  <img src="/assets/gif/enhancement1.gif")>
 </center>
 
 [back](./)
