@@ -16,7 +16,7 @@ layout: default
 ### Enhancement 1:
 
 <center>
-  ![](https://github.com/katekowalyshyn/katekowalyshyn.github.io/assets/gif/enhancement1.gif)
+  <img src="/assets/gif/enhancement1.gif")
 </center>
 
 [back](./)
