@@ -6,7 +6,7 @@ layout: default
   <img src="/assets/img/design.png">
 </center>
 
-Original Artifact:
+### Original Artifact:
 <center>
   <img src="/assets/img/initial-artifact.png">
 </center>
