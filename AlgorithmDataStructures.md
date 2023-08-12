@@ -6,11 +6,23 @@ layout: default
   <img src="/assets/img/algorithms.png">
 </center>
 
-# Enhancement 1:
+### Enhancement 1:
 
-# Enhancement 2:
+<center>
+  <img src="/assets/gif/enhancement1.gif">
+</center>
 
-# Final Design:
+### Enhancement 2:
+
+<center>
+  <img src="/assets/img/enhancement2-firstdraft.png">
+</center>
+
+### Final Design:
+
+<center>
+  <img src="/assets/gif/enhancement2.gif">
+</center>
 
 
 [back](./)
