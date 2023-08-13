@@ -10,5 +10,5 @@ To enter the front end of the database, you will need to enter in credentials. T
 
 For usage and testing of this:
 
-username: admin
+username: admin <br>
 password: kate
