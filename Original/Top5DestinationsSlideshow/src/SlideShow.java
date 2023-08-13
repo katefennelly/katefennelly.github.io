@@ -1,3 +1,12 @@
+##############################################################
+# FileName: SlideShow.java                                   #
+# Programmer: Kate Kowalyshyn                                #
+# Created On: 1/26/2020                                      #
+# Last Mondified: 6/26/2023                                  #
+# Version: 2.0                                               #
+# Description: Top 5 Destinations Slideshow in Java program  #
+##############################################################
+
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
 import java.awt.EventQueue;
