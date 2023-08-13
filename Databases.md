@@ -23,6 +23,7 @@ Below is the database enhancement:
   <img src="/assets/img/frontend.png">
 </center>
 
+
 #### View Photo Feature:
 
 <center>
