@@ -1,5 +1,5 @@
 # Enhancement 1 README
 
-In this folder, it shows the original file that the enhancements were added to, SlideShow.java.
+For this initial enhancement, I improved my artifact by converting it from a Java program used on Windows into an Android application with the equivalent details and information included.
 
-Also in this folder will show the first iteration of the Android app, where it mimicks the java program. 
+Enhancement 1 code is in this folder
