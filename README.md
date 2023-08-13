@@ -22,7 +22,7 @@ Throughout my time at SNHU in the Computer Science program, I have learned a vas
 
 Among the many skills I learned throughout the Computer Science program, many vital topics were covered, including collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. 
 
-### Collaborating in a Team Environment
+#### Collaborating in a Team Environment
 In my CS-310: Collaboration and Team Project course, I learned how it works to develop with others, the importance of peer reviews, how to mitigate conflicts in code commits, and helpful tools like Slack to ensure everyone on the team stays up to date with all the changes happening to the code. Team collaboration is crucial for successful coding projects. 
 
 #### Communicating with Stakeholders
