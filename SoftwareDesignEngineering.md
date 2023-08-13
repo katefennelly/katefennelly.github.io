@@ -26,7 +26,7 @@ Below is the original artifact:
 </center>
 
 
-Below is the initial enhancement made to the artifact:
+Below is the software design and engineering enhancement:
 
 ### Enhancement 1:
 
