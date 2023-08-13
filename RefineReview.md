@@ -26,6 +26,12 @@ For the second category, Algorithms and Data Structures, I will use the same art
 For the third category, database, I will continue with the Project.java, Top 5 Destinations Java slide show from CS-250: Software Development Lifecycle course. I will merge the project from CS-250 with my knowledge from DAD-220: Introduction to SQL to create a database for all the information within the slide show. After completing the backend of the SQL database, I will create a frontend to make it easier to add new destinations to the database for further development of the slideshow. With this development of the database, I will also attempt to add in security aspects to ensure the course outcome:
 * Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
+### Flowchart for Android App:
+
+<center>
+  <img src="/assets/img/flowchart.png">
+</center>
+
 
 ## Code Review:
 A code review is a collaborative process in software development where developers review each other ‘s code to identify errors, assess its quality, and provide feedback. Code reviews play a vital role in catching and resolving problems early in development, leading to higher-quality software. You can watch my code review <a href="https://youtu.be/mM0wrSi6K7k">here.</a>
