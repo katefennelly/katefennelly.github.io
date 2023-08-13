@@ -2,4 +2,4 @@
 
 In this folder you will find the enhancements for the second category, Algorithms and Data Structures. 
 
-In this Enhancement, I added in the selection of destination category, where the end user chooses and the destinatins show up for that category. 
+With this second improvement, I created a way to incorporate user input into the app. When opening the app, the user can choose from a selection of destination categories or a random location. Depending on the user's choice, destinations by that category type will be displayed from an SQLite database.
