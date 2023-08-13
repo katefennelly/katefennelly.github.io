@@ -1,3 +1,8 @@
+/* Filename: DatabaseHelper.java
+ * Programmer: Kate Kowalyshyn
+ * Description: Database Helper Class to connect to the database backend
+ */
+
 package com.example.destinationslideshow;
 
 import android.content.Context;
