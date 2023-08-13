@@ -16,13 +16,13 @@ With this enhancement to the artifact, I planned more time to work on it, and it
 ### Enhancement 1:
 
 <center>
-  <img src="/assets/gif/enhancement1.gif" width=248 height=477 >
+  <img src="/assets/gif/enhancement1.gif" width=290 height=557 >
 </center>
 
 ### Enhancement 2:
 
 <center>
-  <img src="/assets/img/enhancement2-firstdraft.png" width=246 height=521 >
+  <img src="/assets/img/enhancement2-firstdraft.png" width=290 height=614 >
 </center>
 
 ### Final Design:
