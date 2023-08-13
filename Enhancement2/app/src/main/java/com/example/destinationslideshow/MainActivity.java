@@ -1,3 +1,8 @@
+/* Filename: MainActivity.java
+ * Programmer: Kate Kowalyshyn
+ * Description: Main Activity of the app
+ */
+
 package com.example.destinationslideshow;
 
 import android.database.CursorWindow;
