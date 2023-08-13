@@ -1,3 +1,8 @@
+/* Filename: FirstFragment.java
+ * Programmer: Kate Kowalyshyn
+ * Description: Creation of the main slideshow portion of the app
+ */
+
 package com.example.destinationslideshow;
 
 import android.os.Bundle;
