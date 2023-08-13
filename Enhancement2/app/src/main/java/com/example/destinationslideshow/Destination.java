@@ -1,3 +1,8 @@
+/* Filename: Destination.java
+ * Programmer: Kate Kowalyshyn
+ * Description: Destination class used to initialize and get variables
+ */
+
 package com.example.destinationslideshow;
 
 import android.graphics.Bitmap;
