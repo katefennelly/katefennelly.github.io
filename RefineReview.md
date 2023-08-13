@@ -34,6 +34,11 @@ For the third category, database, I will continue with the Project.java, Top 5 D
 
 
 ## Code Review:
-A code review is a collaborative process in software development where developers review each other ‘s code to identify errors, assess its quality, and provide feedback. Code reviews play a vital role in catching and resolving problems early in development, leading to higher-quality software. You can watch my code review <a href="https://youtu.be/mM0wrSi6K7k">here.</a>
+A code review is a collaborative process in software development where developers review each other's code to identify errors, assess its quality, and provide feedback. Code reviews play a vital role in catching and resolving problems early in development, leading to higher-quality software. In my code review, I will be addressing:
+* Existing functionality
+* Code Analysis
+* Enhancements
+
+You can watch my code review <a href="https://youtu.be/mM0wrSi6K7k">here.</a>
 
 [back](./)
