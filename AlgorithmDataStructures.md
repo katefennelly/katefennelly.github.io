@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](./)
+
 <center>
   <img src="/assets/img/algorithms.png">
 </center>
