@@ -27,7 +27,7 @@ Below is the initial enhancement made to the artifact:
 ### Enhancement 1:
 
 <center>
-  <img src="/assets/gif/enhancement1.gif" width=248 height=477 >
+  <img src="/assets/gif/enhancement1.gif" width=290 height=557 >
 </center>
 
 [back](./)
