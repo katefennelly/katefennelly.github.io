@@ -21,6 +21,7 @@ Below is the starting artifact for this enhancement:
   <img src="/assets/gif/enhancement1.gif" width=290 height=557 >
 </center>
 
+
 Below is the intial algorithm and data structure enhancement:
 
 ### Enhancement 2:
@@ -28,6 +29,7 @@ Below is the intial algorithm and data structure enhancement:
 <center>
   <img src="/assets/img/enhancement2-firstdraft.png" width=290 height=614 >
 </center>
+
 
 Below is the final design of the Android App and its functionality:
 
