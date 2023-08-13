@@ -1,3 +1,8 @@
+/* Filename: SecondFragment.java
+ * Programmer: Kate Kowalyshyn
+ * Description: Creation of the category selection part of the app
+ */
+
 package com.example.destinationslideshow;
 
 //Imports needed
