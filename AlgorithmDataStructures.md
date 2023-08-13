@@ -13,17 +13,24 @@ I decided on this artifact because I had limited knowledge when I made it, and n
 With this enhancement to the artifact, I planned more time to work on it, and it was a better start, but here it is later than last week, and I am finally submitting my milestone. This milestone had a lot more for me to do, so even with giving myself 4 hours after work each night and the two weekend days, it was a lot, but I accomplished a lot. Incorporating SQLite into Android Studio took longer than I had hoped, and I created an export of the SQLite database to import into the app. If I were using an actual SQL server, it would have gone more straightforward for me. 
 
 
+
+Below is the starting artifact for this enhancement:
+
 ### Enhancement 1:
 
 <center>
   <img src="/assets/gif/enhancement1.gif" width=290 height=557 >
 </center>
 
+Below is the intial algorithm and data structure enhancement:
+
 ### Enhancement 2:
 
 <center>
   <img src="/assets/img/enhancement2-firstdraft.png" width=290 height=614 >
 </center>
+
+Below is the final design of the Android App and its functionality:
 
 ### Final Design:
 
