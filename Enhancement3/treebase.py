@@ -2,11 +2,12 @@
 # FileName: treebase.py                                               #
 # Programmer: Kate Kowalyshyn                                         #
 # Created On: 7/25/2023                                               #
-# Last Mondified: 8/11/2023                                           #
+# Last Mondified: 8/13/2023                                           #
 # Version: 2.0                                                        #
 # Description: Front end for SQLite database for CRUD functionalities #
 #######################################################################
 
+import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
@@ -16,6 +17,7 @@ from tkinter.filedialog import askopenfile
 from io import BytesIO
 import sqlite3
 from photopreviewdialog import PhotoDialog
+from logindialog import LoginDialog
 
 
 root = Tk()
@@ -375,4 +377,8 @@ select_record_button.grid(row=0, column=7, padx=27, pady=10)
 # Run to pull data from database on start
 query_database()
 
+
+dlg = LoginDialog(root)
+
 root.mainloop()
+
