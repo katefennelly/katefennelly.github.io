@@ -34,4 +34,8 @@ Below is the software design and engineering enhancement:
   <img src="/assets/gif/enhancement1.gif" width=290 height=557 >
 </center>
 
+---
+### Enhancement 1 Artifact Repository: [Software Design and Engineering](https://github.com/katekowalyshyn/tree/main/Enhancement1 "Enhancement 1: Software Design and Engineering")
+---
+
 [back](./)
