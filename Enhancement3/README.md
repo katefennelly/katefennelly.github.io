@@ -1,4 +1,4 @@
-# Enhancement 3 README
+# Enhancement 3: Database
 
 _Located in Enhancement 3 Folder_
 
@@ -34,3 +34,5 @@ Below is the database enhancement, first you must enter in a login for security 
 <center>
   <img src="/assets/img/viewphoto.png">
 </center>
+
+
